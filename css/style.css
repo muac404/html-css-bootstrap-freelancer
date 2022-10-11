@@ -20,3 +20,21 @@ h1{
 h3{
     color: white;
 }
+
+
+.portfolio h1{
+    color: black;
+}
+
+.about h1{
+    
+}
+
+.border-debug{
+    border: 1px solid;
+}
+
+.about{
+    background-color: #1abc9c;
+    color: white;
+}
