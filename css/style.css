@@ -13,6 +13,14 @@ li{
     background-color:#1abc9c;
 }
 
+.hero-image img{
+    max-height: 200px;
+}
+
+hr{
+    border: 1px solid white;
+}
+
 h1{
     color: white;
 }
