@@ -86,6 +86,16 @@ h4{
 }
 
 .ms-big-size-text{
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.ms-extra-padding-r{
+    
+    padding-right: 60px;
+}
+
+.ms-extra-padding-l{
+    
+    padding-left: 60px;
 }
