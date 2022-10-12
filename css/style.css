@@ -4,9 +4,15 @@ header{
 }
 
 /* COMMON */
+
+header i{
+    font-size: 20px;
+}
+
 ul{
     margin-bottom: 0;
 }
+
 li{
     list-style: none;
 }
@@ -17,6 +23,10 @@ li{
 
 .hero-image img{
     max-height: 200px;
+}
+
+.portfolio img{
+    width: 100%;
 }
 
 hr{
@@ -45,9 +55,13 @@ h4{
 }
 
 .border-debug{
-    border: 1px dashed;
+    /* border: 1px dashed; */
 }
 
+.image-prtfl{
+    border-radius: 10px;
+    overflow-y: hidden;
+}
 .about{
     background-color: #1abc9c;
     color: white;
