@@ -97,6 +97,15 @@ h4{
 .ms-xl-size-text{
     font-size: 18px;
 }
+.star{
+    font-size: 28px;
+    color: white;
+}
+
+.star-b{
+    font-size: 28px;
+    color: #2c3e50;
+}
 
 .ms-extra-padding{
     padding-left: 40px;
@@ -125,4 +134,48 @@ h4{
 
 .ms-custom-container{
     max-width: 50%;
+}
+
+input::placeholder {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+textarea::placeholder{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+.ms-form-control{
+    border-radius: 0;
+}
+
+.left-dec{
+    height: 3px;
+    width: 100px;
+    background-color: white;
+}
+
+.right-dec{
+    height: 3px;
+    width: 100px;
+    background-color: white;
+}
+
+.left-dec-b{
+    height: 3px;
+    width: 100px;
+    background-color: #2c3e50;
+}
+
+.right-dec-b{
+    height: 3px;
+    width: 100px;
+    background-color: #2c3e50;
+}
+
+.ms-color-black{
+    color: black;
 }
