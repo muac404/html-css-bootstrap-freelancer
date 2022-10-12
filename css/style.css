@@ -84,3 +84,8 @@ h4{
     border-radius: 10px ;
     padding: 5px 20px;
 }
+
+.ms-big-size-text{
+    font-size: 20px;
+    font-weight: 600;
+}
