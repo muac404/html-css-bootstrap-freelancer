@@ -5,6 +5,9 @@ header{
 
 /* COMMON */
 
+
+/* TYPOGRAPHY */
+
 header i{
     font-size: 20px;
 }
@@ -15,22 +18,6 @@ ul{
 
 li{
     list-style: none;
-}
-
-.ms-hero{
-    background-color:#1abc9c;
-}
-
-.hero-image img{
-    max-height: 250px;
-}
-
-.portfolio img{
-    width: 100%;
-}
-
-hr{
-    border: 1px solid white;
 }
 
 h1{
@@ -58,6 +45,25 @@ h4{
 .contact-me h1{
     color: black;
 }
+
+
+
+/* MAIN */
+
+
+.ms-hero{
+    background-color:#1abc9c;
+}
+
+.hero-image img{
+    max-height: 250px;
+}
+
+.portfolio img{
+    width: 100%;
+}
+
+
 
 .border-debug{
     /* border: 1px dashed; */
@@ -112,10 +118,6 @@ h4{
     padding-right: 40px;
 }
 
-/* .ms-extra-padding-l{
-    
-    padding-left: 60px;
-} */
 
 .ms-padding-kill{
     padding: 0;
@@ -133,7 +135,7 @@ h4{
 }
 
 .ms-custom-container{
-    max-width: 50%;
+    max-width: 60%;
 }
 
 input::placeholder {
