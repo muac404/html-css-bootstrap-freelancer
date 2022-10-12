@@ -111,3 +111,18 @@ h4{
 .ms-padding-kill{
     padding: 0;
 }
+
+.ms-form-input-style{
+    border: 0px;
+    border-radius: 0;
+    width: 100%;
+}
+
+.ms-btn-form{
+    background-color: #1abc9c;
+    border: none;
+}
+
+.ms-custom-container{
+    max-width: 50%;
+}
