@@ -89,13 +89,20 @@ h4{
     font-size: 18px;
     font-weight: 500;
 }
-
-.ms-extra-padding-r{
-    
-    padding-right: 60px;
+.ms-xl-size-text{
+    font-size: 20px;
 }
 
-.ms-extra-padding-l{
+.ms-extra-padding{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+/* .ms-extra-padding-l{
     
     padding-left: 60px;
+} */
+
+.ms-padding-kill{
+    padding: 0;
 }
